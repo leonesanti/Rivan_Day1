@@ -1,0 +1,1 @@
+﻿New-Website -name "myweb.com" -hostheader "www.myweb.com" -physicalpath "c:\webs\datingbiz"
